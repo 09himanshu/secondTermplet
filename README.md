@@ -1,1 +1,1 @@
-# secondTermplet
+# secondTempletBasic static templet 
